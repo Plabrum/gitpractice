@@ -1,15 +1,9 @@
-# gitpractice
-everyone adds to the file!
+## Practice adding to a file
 
 # Instructor:
 Phil!
 
 ## Students in the class:
-
-
-
-
-
 
 
 
