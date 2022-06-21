@@ -1,8 +1,8 @@
 ## Practice adding to a file
 
 # Instructor:
+Phil!
 
-Phil! Added new line here
 
 /|\ 
  |
@@ -35,5 +35,4 @@ Phil! Added new line here
 
 - Luis
 
-- arturo
-
+- arturo  😃
