@@ -1,15 +1,6 @@
 # gitpractice
 everyone adds to the file!
 
-# Instructor:
-Phil!
-
-## Students in the class:
 
 
-
-
-
-
-
-
+I have added!!!
