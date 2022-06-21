@@ -1,20 +1,15 @@
 ## Practice adding to a file
 
 # Instructor:
-<<<<<<< HEAD
-Phil! Added new line here
-=======
 Phil!
-<<<<<<< HEAD
->>>>>>> 2ab535d67966e46a86cabaa3c6820e360af98ffa
+
 /|\ 
  |
  |
  | This guy is rather swell
 
 
-## Students in the class:
-=======
+
 ## Students in the class:
 
 
