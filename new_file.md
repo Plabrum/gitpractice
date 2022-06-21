@@ -4,6 +4,6 @@
 Phil!
 
 ## Students in the class:
-
+ - Arturo Rodriguez Lopez
 
 
