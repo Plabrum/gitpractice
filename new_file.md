@@ -2,6 +2,7 @@
 
 # Instructor:
 Phil!
+<<<<<<< HEAD
 /|\ 
  |
  |
@@ -10,14 +11,18 @@ Phil!
 
 - Danielle <3
 
-Caleb!
+- Caleb!
 
 - Raynel
 
 - Anaya
 
+- Maria Maryam
+
+- Naidely Dela Cruz
+
 - Luis
 
--Israel
+- Israel
 
-New_Name Here
+
