@@ -17,6 +17,7 @@ Phil!
 =======
 ## Students in the class:
 
+
 - Danielle <3
 
 - Caleb!
@@ -49,4 +50,4 @@ Caleb!
 
 
 
-- arturo
+- arturo  😃
