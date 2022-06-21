@@ -3,7 +3,9 @@
 # Instructor:
 Phil!
 /|\ 
- This
+ |
+ |
+ | This guy is rather swell
 ## Students in the class:
 Caleb!
 
