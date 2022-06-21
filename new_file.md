@@ -2,8 +2,9 @@
 
 # Instructor:
 Phil!
-
+/|\ 
+ This
 ## Students in the class:
-
+Caleb!
 
 
