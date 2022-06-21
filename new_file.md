@@ -5,5 +5,6 @@ Phil!
 
 ## Students in the class:
 - Raynel
+- Anaya
 
 
