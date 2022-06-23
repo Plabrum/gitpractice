@@ -10,10 +10,8 @@ Phil!
  | This guy is rather swell
 
 ## Students in the class:
-<<<<<<< HEAD
-KEILY
 
-=======
+KEILY
 
 - Danielle <3
 
@@ -38,6 +36,5 @@ KEILY
 - Naidely Dela Cruz
 
 - Luis
->>>>>>> b673a9475bfebc428c19d035f5a84afb4af1ce5f
 
 - arturo  😃
