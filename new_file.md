@@ -1,7 +1,9 @@
 ## Practice adding to a file
 
 # Instructor:
-Phil! Added new line here
+Phil!
+
+
 /|\ 
  |
  |
@@ -9,21 +11,30 @@ Phil! Added new line here
 
 ## Students in the class:
 
-Caleb!
+KEILY
+
+- Danielle <3
+
+- Caleb!
 
 - Raynel
-<<<<<<< HEAD
-- Anaya
-=======
+
+- Maria Maryam
+
+- Raynel
 
 - Anaya
 
->>>>>>> 1bba02e84bf7cba742083fc2fc9cc8bc8c6bae59
 - Luis
-- Lily <3
--Israel
-<<<<<<< HEAD
-=======
 
-New_Name Here
->>>>>>> 1bba02e84bf7cba742083fc2fc9cc8bc8c6bae59
+- sarah 
+
+- Israel
+
+- Lily <3
+
+- Naidely Dela Cruz
+
+- Luis
+
+- arturo  😃
